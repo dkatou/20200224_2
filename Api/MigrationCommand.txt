@@ -1,0 +1,2 @@
+コントローラプロジェクトで
+dotnet ef migrations add InitialCreate --project ../ApiMigration
